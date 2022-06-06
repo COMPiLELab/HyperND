@@ -1,3 +1,14 @@
+## HyperND
+
+
+This repo contains the implementation for the algorithm HyperND from the paper: 
+
+[Nonlinear Feature Diffusion on Hypergraphs](https://arxiv.org/abs/2103.14867) \
+By Konstantin Prokopchik, [Austin R. Benson](https://www.cs.cornell.edu/~arb/) and [Francesco Tudisco](https://ftudisco.gitlab.io/post/) \
+
+To be presented at ICML 2022.
+
+
 ## Baselines
 
 
