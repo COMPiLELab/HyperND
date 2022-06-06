@@ -1,0 +1,16 @@
+setup.py
+sgc/__init__.py
+sgc/args.py
+sgc/citation.py
+sgc/citation_jl.py
+sgc/metrics.py
+sgc/models.py
+sgc/normalization.py
+sgc/reddit.py
+sgc/tuning.py
+sgc/utils.py
+sgc.egg-info/PKG-INFO
+sgc.egg-info/SOURCES.txt
+sgc.egg-info/dependency_links.txt
+sgc.egg-info/not-zip-safe
+sgc.egg-info/top_level.txt

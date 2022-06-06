@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+hypergcn/hypergcn.py
+hypergcn/hypergcn_jl.py
+hypergcn.egg-info/PKG-INFO
+hypergcn.egg-info/SOURCES.txt
+hypergcn.egg-info/dependency_links.txt
+hypergcn.egg-info/not-zip-safe
+hypergcn.egg-info/top_level.txt

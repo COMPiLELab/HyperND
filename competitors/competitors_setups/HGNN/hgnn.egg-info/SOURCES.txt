@@ -1,0 +1,9 @@
+setup.py
+hgnn/__init__.py
+hgnn/train.py
+hgnn/train_jl.py
+hgnn.egg-info/PKG-INFO
+hgnn.egg-info/SOURCES.txt
+hgnn.egg-info/dependency_links.txt
+hgnn.egg-info/not-zip-safe
+hgnn.egg-info/top_level.txt

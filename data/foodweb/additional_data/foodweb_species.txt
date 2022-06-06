@@ -1,0 +1,128 @@
+2um Spherical Phytoplankt
+Synedococcus
+Oscillatoria
+Small Diatoms (<20um)
+Big Diatoms (>20um)
+Dinoflagellates
+Other Phytoplankton
+Benthic Phytoplankton
+Thalassia
+Halodule
+Syringodium
+Roots
+Drift Algae
+Epiphytes
+Free Bacteria
+Water Flagellates
+Water Cilitaes
+Acartia Tonsa
+Oithona nana
+Paracalanus
+Other Copepoda
+Meroplankton
+Other Zooplankton
+Benthic Flagellates
+Benthic Ciliates
+Meiofauna
+Sponges
+Coral
+Other Cnidaridae
+Echinoderma
+Bivalves
+Detritivorous Gastropods
+Epiphytic Gastropods
+Predatory Gastropods
+Detritivorous Polychaetes
+Predatory Polychaetes
+Suspension Feeding Polych
+Macrobenthos
+Benthic Crustaceans
+Detritivorous Amphipods
+Herbivorous Amphipods
+Isopods
+Herbivorous Shrimp
+Predatory Shrimp
+Pink Shrimp
+Thor Floridanus
+Lobster
+Detritivorous Crabs
+Omnivorous Crabs
+Predatory Crabs
+Callinectus sapidus
+Stone Crab
+Sharks
+Rays
+Tarpon
+Bonefish
+Sardines
+Anchovy
+Bay Anchovy
+Lizardfish
+Catfish
+Eels
+Toadfish
+Brotalus
+Halfbeaks
+Needlefish
+Other Killifish
+Goldspotted killifish
+Rainwater killifish
+Snook
+Sailfin Molly
+Silverside
+Other Horsefish
+Gulf Pipefish
+Dwarf Seahorse
+Grouper
+Jacks
+Pompano
+Other Snapper
+Gray Snapper
+Mojarra
+Grunt
+Porgy
+Pinfish
+Scianids
+Spotted Seatrout
+Red Drum
+Spadefish
+Parrotfish
+Mackerel
+Mullet
+Barracuda
+Blennies
+Code Goby
+Clown Goby
+Flatfish
+Filefishes
+Puffer
+Other Pelagic Fishes
+Other Demersal Fishes
+Loon
+Greeb
+Pelican
+Comorant
+Big Herons & Egrets
+Small Herons & Egrets
+Ibis
+Roseate Spoonbill
+Herbivorous Ducks
+Omnivorous Ducks
+Predatory Ducks
+Raptors
+Gruiformes
+Small Shorebirds
+Gulls & Terns
+Kingfisher
+Crocodiles
+Loggerhead Turtle
+Green Turtle
+Hawksbill Turtle
+Dolphin
+Manatee
+Water POC
+Benthic POC
+DOC
+Input
+Output
+Respiration

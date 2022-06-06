@@ -1,0 +1,17 @@
+setup.py
+sce/__init__.py
+sce/classification.py
+sce/load_process.py
+sce/mlp.py
+sce/networks.py
+sce/preprocess.py
+sce/splits.py
+sce/test.py
+sce/train.py
+sce/train_jl.py
+sce/utils.py
+sce.egg-info/PKG-INFO
+sce.egg-info/SOURCES.txt
+sce.egg-info/dependency_links.txt
+sce.egg-info/not-zip-safe
+sce.egg-info/top_level.txt
